@@ -1,0 +1,4 @@
+## instarlar dependencias para la app ##
+
+npm i body-parse 
+cors dotenv express express-validator formidable fs lodash mongoose morgan
